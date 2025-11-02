@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Konsultasi Dokter Kandungan",
+    "provider": "Dokter Spesialis Obgyn",
+    "desc": "Pemeriksaan kehamilan, rencana persalinan, dan edukasi tanda bahaya."
+  },
+  {
+    "id": 2,
+    "name": "Konsultasi Laktasi",
+    "provider": "Konsultan Laktasi Tersertifikasi",
+    "desc": "Pendampingan menyusui dan teknik meningkatkan produksi ASI."
+  },
+  {
+    "id": 3,
+    "name": "Konseling Psikologis",
+    "provider": "Psikolog Berpengalaman",
+    "desc": "Dukungan emosional untuk ibu hamil dan pascapersalinan."
+  },
+  {
+    "id": 4,
+    "name": "Konsultasi Gizi",
+    "provider": "Ahli Gizi Klinis",
+    "desc": "Rencana makan personal untuk ibu hamil & menyusui."
+  }
+]
